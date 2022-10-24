@@ -1,2 +1,4 @@
 # Weather Dashboard
-A dashboard using the 5-Day Forecast API
+A dashboard using the Open Weather API
+
+
